@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>sh.mehrdad</groupId>
-    <artifactId>bootstrap</artifactId>
+    <artifactId>springrest</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>bootstrap</name>
     <description>bootstrap</description>
